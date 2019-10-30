@@ -1,11 +1,13 @@
 = Guida Breve a Git
 
-* git clone "indirizzo" = copia un archivio remoto da una macchina alla propia +
-* git status = visualizza lo stato della cartella corrente +
-* git add = aggiunge i punti sui file da cui effettuare i commit +
-* git commit -m "commento" = effettua il commit dei file +
-* git push = carica i file committati su remoto +
-* git fetch = recupera i dati dal server remoto sul disco senza modificare il lavoro corrente +
-* git pull = recupera archivio da remoto e modifica file di lavoro corrente +
-* git diff = confronta le modifiche apportate ai file +
-* git gui = scarica interfaccia client garfica
+* `git clone "indirizzo"` = copia un archivio remoto da una macchina alla propia +
+* `git status` = visualizza lo stato della cartella corrente +
+* `git add` = aggiunge i punti sui file da cui effettuare i commit +
+* `git commit -m "commento"` = effettua il commit dei file +
+* `git push` = carica i file committati su remoto +
+* `git fetch` = recupera i dati dal server remoto sul disco senza modificare il lavoro corrente +
+* `git pull` = recupera archivio da remoto e modifica file di lavoro corrente +
+* `git diff` = confronta le modifiche apportate ai file +
+* `git gui` = scarica interfaccia client garfica
+
+== Attenzione pull e fetch sono completamente diversi
